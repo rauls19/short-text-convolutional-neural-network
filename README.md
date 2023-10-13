@@ -5,3 +5,5 @@ Implementation of the unsupervised convolutional neural network for short text c
 Implementation of:
 - Folding
 - Dynamic K-MaxPooling
+
+Work in progress
