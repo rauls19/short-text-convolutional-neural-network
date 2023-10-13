@@ -1,0 +1,8 @@
+torch
+pandas
+numpy
+nltk
+torchinfo
+gensim
+torchtext
+scikit-learn
